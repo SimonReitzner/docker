@@ -1,0 +1,5 @@
+# Exclude .env
+*.env
+
+# Include template for .env
+!.template.env
