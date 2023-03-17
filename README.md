@@ -35,7 +35,7 @@ The project was built with **Docker version 20.10.14** ([docker](https://www.doc
    ```sh
    cd docker/<subfolder> # e.g. mysql
    ```
-2. Create `.env` file from `template.env` and `<subfolder>/README.md`
+2. Create `.env` file from `.template.env` and `<subfolder>/README.md`
 3. Build, (re)create, start, and attach to containers for a service
    ```sh
    docker-compose up -d
